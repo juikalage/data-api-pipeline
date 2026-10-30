@@ -1,0 +1,6 @@
+transaction_id,amount,status
+T1,250.00,paid
+T2,100.50,pending
+T3,abc,paid
+T4,75.00,refunded
+T5,300.00,failed
